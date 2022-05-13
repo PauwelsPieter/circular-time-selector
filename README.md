@@ -1,16 +1,9 @@
-# date_time_picker
+# Flutter circular time picker
 
-A new Flutter project.
+Making use of [matthewfx/sleek_circular_slider](https://github.com/matthewfx/sleek_circular_slider) and [Realank/flutter_datetime_picker](https://github.com/Realank/flutter_datetime_picker) you can create an easy to use and good looking circular 24h time picker.
 
-## Getting Started
+![demo video](https://user-images.githubusercontent.com/57799581/168267922-8f778a8e-3770-4dfe-9b06-b3dfbaa9da2e.gif)
 
-This project is a starting point for a Flutter application.
+Many of the packages out there don't make it easy to update the progress indicator. Luckily metthewfx made this easy so you can realise things like these.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I hope this helps anyone!
