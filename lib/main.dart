@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
             setState(() {
               _date = printDateFromValue(value);
             });
-            // TODO : show RTSP video from this timestamp
+            // TODO : use the timestamp for something
           },
           appearance: appearance,
           min: 0,
@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         _date = date;
                         _value = printValueFromDate(date);
                       });
-                      // TODO : show RTSP video from this timestamp
+                      // TODO : use the timestamp for something
                     });
                   },
                   child: Text(
